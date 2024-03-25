@@ -1,1 +1,2 @@
-hellohello!
+some text for the file from the terminal using cat > test.txt, followed by ctrl+d
+to print out: cat < test.txt

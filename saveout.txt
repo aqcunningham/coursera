@@ -1,0 +1,21 @@
+total 184
+-rw-r--r--@ 1 aqcunningham  staff   1698 Mar 22 21:42 addsubtotest.py
+-rw-r--r--@ 1 aqcunningham  staff   1787 Mar 24 15:07 git.txt
+-rwx------@ 1 aqcunningham  staff  13153 Mar 16 13:12 hello.py
+-rwx------@ 1 aqcunningham  staff   2901 Mar  5 21:56 home.html
+-rwx------@ 1 aqcunningham  staff   4829 Mar 10 15:00 hw.py
+-rwx------@ 1 aqcunningham  staff   4483 Mar 11 14:55 hw2.py
+-rwx------@ 1 aqcunningham  staff   3030 Mar 16 12:49 hw3.py
+-rw-r--r--@ 1 aqcunningham  staff   2743 Mar 22 19:16 hw4.py
+drwxr-xr-x@ 6 aqcunningham  staff    192 Mar 24 15:00 lab
+-rw-r--r--@ 1 aqcunningham  staff    466 Mar 21 18:48 lab1.py
+-rwx------@ 1 aqcunningham  staff    133 Mar 15 11:52 newtxt.txt
+-rwx------@ 1 aqcunningham  staff      9 Mar 11 12:29 petnames.txt
+-rw-r--r--@ 1 aqcunningham  staff      0 Mar 24 15:55 saveout.txt
+-rw-r--r--@ 1 aqcunningham  staff      0 Mar 24 12:35 somefile.py
+-rwx------@ 1 aqcunningham  staff    328 Mar  4 16:18 style.css
+-rw-r--r--@ 1 aqcunningham  staff    466 Mar 21 18:48 tempCodeRunnerFile.py
+-rw-r--r--@ 1 aqcunningham  staff    594 Mar 22 20:45 test.py
+-rwx------@ 1 aqcunningham  staff    110 Mar 24 15:52 test.txt
+-rw-r--r--@ 1 aqcunningham  staff   5718 Mar 22 12:54 week3.py
+-rw-r--r--@ 1 aqcunningham  staff    190 Mar 22 19:17 week4.py
